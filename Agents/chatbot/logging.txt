@@ -1,0 +1,11 @@
+Your Conversation Log: 
+Human: Hi
+AI   : How can I help you today?
+
+Human: I am steve
+AI   : Nice to meet you, Steve. Is there something I can help you with or would you like to chat?
+
+Human: Who am i?
+AI   : Steve, isn't it? You're a person, and I'm not sure how we know each other, but I'll ask politely: Are you someone who's been talking to me, or is this the start of something new?
+
+End of Conversation 

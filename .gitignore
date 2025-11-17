@@ -1,0 +1,113 @@
+# -----------------------
+# Python
+# -----------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pyenv
+.python-version
+
+# Pydantic / dotenv / configs
+.env
+.env.*
+*.env
+*.ini
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Jupyter output files (optional — uncomment if notebooks produce large images)
+# **/figures/
+# **/output/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# MacOS / Linux / Windows
+.DS_Store
+*.DS_Store
+Thumbs.db
+
+# Python backup files
+*.bak
+*.tmp
+*.old
+
+# MyPy / Pyright
+.mypy_cache/
+.pyright/
+.dmypy.json
+dmypy.json
+
+# Cache directories
+__pypackages__/
+.pytest_cache/
+.pyre/
+
+# Generated files
+*.sqlite3
+*.db
+
+# -----------------------
+# Jupyter NB Extensions
+# -----------------------
+nbproject/
+.ipynb_checkpoints/
+
+# JupyterLab
+.jupyter/
+.jupyterlab-settings/
+.jupyterlab/
